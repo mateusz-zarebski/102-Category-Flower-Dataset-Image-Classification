@@ -45,9 +45,9 @@ The entire project is implemented in a single, well-organized Jupyter Notebook f
 
 ## Notebook
 Complete pipeline with EDA, training, evaluation and model comparisons:  
-[flowers_classification.ipynb](flowers_classification.ipynb)
+[View notebook on GitHub](flowers_classification.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusz-zarebski/flowers102-classification/blob/main/flowers_classification.ipynb)
+[Open in Colab](https://colab.research.google.com/github/mateusz-zarebski/flowers102-classification/blob/main/flowers_classification.ipynb)
 
 ## How to Run
 pip install -r requirements.txt  
