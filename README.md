@@ -9,7 +9,7 @@ Fine-grained image classification on the Oxford Flowers 102 dataset using PyTorc
   - Visual Geometry Group, University of Oxford: [Official download page](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)  
   - Publication: [Nilsback & Zisserman, 2008](https://www.robots.ox.ac.uk/~men/papers/nilsback_icvgip08.pdf)
 
-Images loaded from local directory structure with provided 'imagelabels.mat' file.
+Images are loaded from a local directory structure using the provided 'imagelabels.mat' file.
 
 ## Key Results
 ### Pretrained ResNet-50 + full fine-tuning (best performing)
