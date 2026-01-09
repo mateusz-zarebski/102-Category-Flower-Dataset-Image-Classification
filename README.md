@@ -45,4 +45,5 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 
 ## How to Run
 pip install -r requirements.txt
+
 jupyter notebook flowers_classification.ipynb
