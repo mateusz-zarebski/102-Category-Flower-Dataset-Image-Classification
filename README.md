@@ -50,8 +50,7 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mateusz-zarebski/flowers102-classification/blob/main/flowers_classification.ipynb)
 
 ## How to Run
-pip install -r requirements.txt
-
+pip install -r requirements.txt  
 jupyter notebook flowers_classification.ipynb
 
 ⭐ Star if you like it!  
