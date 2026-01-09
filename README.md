@@ -7,7 +7,7 @@ Fine-grained image classification on the Oxford Flowers 102 dataset using PyTorc
 - Moderate class imbalance (40–258 images per class)
 - Source:
   - Visual Geometry Group, University of Oxford: [Official download page](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)  
-  - Paper: [Nilsback & Zisserman, 2008](https://www.robots.ox.ac.uk/~men/papers/nilsback_icvgip08.pdf)
+  - Publication: [Nilsback & Zisserman, 2008](https://www.robots.ox.ac.uk/~men/papers/nilsback_icvgip08.pdf)
 
 Images loaded from local directory structure with provided 'imagelabels.mat' file.
 
