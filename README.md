@@ -29,6 +29,12 @@ Images loaded from local directory structure with provided 'imagelabels.mat' fil
 **Full analysis available in the notebook**:  
 training and validation curves, confusion matrices, ROC curves (macro/micro), detailed error analysis on misclassified classes, comprehensive commentary, interpretations and conclusions after each experiment.
 
+## Technologies
+- PyTorch, Torchvision
+- NumPy, SciPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
 ## Notebook Structure
 The entire project is implemented in a single, well-organized Jupyter Notebook for clarity and reproducibility:
 - Clear sectioning using Markdown headers
@@ -47,3 +53,6 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 pip install -r requirements.txt
 
 jupyter notebook flowers_classification.ipynb
+
+⭐ Star if you like it!  
+Author: Mateusz Zarębski [](https://github.com/mateusz-zarebski)
