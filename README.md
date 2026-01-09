@@ -29,12 +29,6 @@ Images loaded from local directory structure with provided 'imagelabels.mat' fil
 **Full analysis available in the notebook**:  
 training and validation curves, confusion matrices, ROC curves (macro/micro), detailed error analysis on misclassified classes, comprehensive commentary, interpretations and conclusions after each experiment.
 
-## Technologies
-- PyTorch, Torchvision
-- NumPy, SciPy
-- Matplotlib, Seaborn
-- Scikit-learn
-
 ## Notebook Structure
 The entire project is implemented in a single, well-organized Jupyter Notebook for clarity and reproducibility:
 - Clear sectioning using Markdown headers
@@ -42,6 +36,12 @@ The entire project is implemented in a single, well-organized Jupyter Notebook f
 - Modular design within the notebook - easy to extract into .py files if needed
 - Clean visualizations and interpreted results after each step
 - Automatic GPU support and mixed precision training
+
+## Technologies
+- PyTorch, Torchvision
+- NumPy, SciPy
+- Matplotlib, Seaborn
+- Scikit-learn
 
 ## Notebook
 Complete pipeline with EDA, training, evaluation and model comparisons:  
