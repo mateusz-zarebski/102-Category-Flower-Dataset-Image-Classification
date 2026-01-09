@@ -1,6 +1,6 @@
 # Oxford Flowers 102 Classification 🌸
 
-Fine-grained image classification on the Oxford Flowers 102 dataset using PyTorch and transfer learning.
+Fine-grained image classification on the Oxford Flowers 102 dataset using PyTorch. The project explores transfer learning with ResNet-50, compares multiple training strategies and introduces a custom lightweight CNN baseline. Model performance is evaluated using repeated stratified train/validation/test splits (Monte Carlo-style cross-validation) to assess robustness and stability.
 
 ## Dataset
 - 8189 images across 102 flower categories
