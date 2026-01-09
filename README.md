@@ -48,6 +48,7 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 [View notebook on GitHub](flowers_classification.ipynb)
 
 ## How to Run
+'''bash
 pip install -r requirements.txt  
 jupyter notebook flowers_classification.ipynb
 
