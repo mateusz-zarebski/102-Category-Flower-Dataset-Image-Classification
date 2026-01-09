@@ -52,7 +52,8 @@ pip install -r requirements.txt
 jupyter notebook flowers_classification.ipynb
 
 ---
-⭐ **Star if you like the project!**
+
+⭐ **Star if you like the project!**  
 **Author:** Mateusz Zarębski  
 [GitHub Profile](https://github.com/mateusz-zarebski) | [Portfolio Overview](https://github.com/mateusz-zarebski/portfolio)
 
