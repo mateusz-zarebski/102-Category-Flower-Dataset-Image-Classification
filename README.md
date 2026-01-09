@@ -13,14 +13,14 @@ Images loaded from local directory structure with provided 'imagelabels.mat' fil
 
 ## Key Results
 ### Pretrained ResNet-50 + full fine-tuning (best performing)
-- Top-1 Accuracy: **97.71%** std 0.51% (mean over 10 stratified runs)
+- Top-1 Accuracy: **97.71%** std 0.51%
 - Top-5 Accuracy: **99.69%** std 0.13%
 - Macro F1-score: 97.46%
 - Model size: ~91 MB (~23.7M parameters)
 - Inference time: ~0.25 ms/image
 
 ### Custom LightResCNN (lightweight model trained from scratch)
-- Top-1 Accuracy: **90.07%** std 1.22% (mean over 10 stratified runs)
+- Top-1 Accuracy: **90.07%** std 1.22%
 - Top-5 Accuracy: **97.71%** std 0.39%
 - Macro F1-score: 88.90%
 - Model size: ~21 MB (~5.4M parameters)
