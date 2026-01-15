@@ -24,7 +24,7 @@ Images are loaded from a local directory structure using the provided 'imagelabe
 - Top-5 Accuracy: **97.71%** std 0.39%
 - Macro F1-score: 88.90%
 - Model size: ~21 MB (~5.4M parameters)
-- Inference time: ~0.09 ms/image (fastest)
+- Inference time: ~0.09 ms/image
 
 **Full analysis available in the notebook**:  
 training and validation curves, confusion matrices, ROC curves (macro/micro), detailed error analysis on misclassified classes, comprehensive commentary, interpretations and conclusions after each experiment.
