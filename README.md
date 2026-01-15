@@ -56,7 +56,7 @@ jupyter notebook flowers_classification.ipynb
 ---
 ⭐ **Star if you like the project!**  
 
-**Author:** Mateusz Zarębski  
+**Author:** Mateusz Zarebski  
 [GitHub Profile](https://github.com/mateusz-zarebski) | [Portfolio Overview](https://github.com/mateusz-zarebski/portfolio)
 
 
