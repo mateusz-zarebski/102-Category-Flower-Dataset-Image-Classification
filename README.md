@@ -44,8 +44,7 @@ The entire project is implemented in a single, well-organized Jupyter Notebook f
 - Scikit-learn
 
 ## Notebook
-Complete pipeline with EDA, training, evaluation and model comparisons:  
-[View notebook on GitHub](flowers_classification.ipynb)
+Complete pipeline with EDA, training, evaluation and model comparisons: [View notebook on GitHub](flowers_classification.ipynb)
 
 ## How to Run
 ```bash
