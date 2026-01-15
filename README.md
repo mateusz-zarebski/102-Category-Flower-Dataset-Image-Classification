@@ -52,6 +52,16 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 pip install -r requirements.txt  
 jupyter notebook flowers_classification.ipynb
 ```
+## References
+When using the dataset in research or academic work, please cite the original publication.
+```bibtex
+@InProceedings{Nilsback08,
+  author       = "Maria-Elena Nilsback and Andrew Zisserman",
+  title        = "Automated Flower Classification over a Large Number of Classes",
+  booktitle    = "Indian Conference on Computer Vision, Graphics and Image Processing",
+  month        = "Dec",
+  year         = "2008",
+}
 
 ---
 ⭐ **Star if you like the project!**  
