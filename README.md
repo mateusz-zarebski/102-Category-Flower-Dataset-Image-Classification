@@ -52,6 +52,7 @@ Complete pipeline with EDA, training, evaluation and model comparisons:
 pip install -r requirements.txt  
 jupyter notebook flowers_classification.ipynb
 ```
+
 ## References
 When using the dataset in research or academic work, please cite the original publication.
 ```bibtex
@@ -62,6 +63,7 @@ When using the dataset in research or academic work, please cite the original pu
   month        = "Dec",
   year         = "2008",
 }
+```
 
 ---
 ⭐ **Star if you like the project!**  
