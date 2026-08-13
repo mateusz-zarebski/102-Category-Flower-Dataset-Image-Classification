@@ -68,7 +68,7 @@ When using the dataset in research or academic work, please cite the original pu
 ⭐ **Star if you like the project!**  
 
 **Author:** Mateusz Zarebski  
-[GitHub Profile](https://github.com/mateusz-zarebski) | [Portfolio Overview](https://github.com/mateusz-zarebski/portfolio)
+ [Portfolio](https://mateusz-zarebski-portfolio.netlify.app/) | [Project Archive](https://github.com/mateusz-zarebski/project-archive/tree/main) | [GitHub Profile](https://github.com/mateusz-zarebski)
 
 
 
